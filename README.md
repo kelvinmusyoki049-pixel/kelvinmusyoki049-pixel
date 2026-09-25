@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on DevOps<br>👯 I’m looking to collaborate on cloud computing<br>🤝 I’m looking for help with cloud based projects<br>🌱 I’m currently learning cloud computing and information security<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
